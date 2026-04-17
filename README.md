@@ -7,4 +7,4 @@ Este repositório será constantemente atualizado com novos projetos conforme av
 
 Tecnologias: HTML, CSS e JavaScript.
 
-##  https://dantasgx.github.io/Portfolio-FullStack/
+##  https://dantasgx.github.io/Portfolio-FullStack/portfolio
