@@ -1,2 +1,2 @@
 # Portfolio das Aulas de FullStack
-Página com o meu portfolio, todos os projetos feitos de lab feitos e rodando em um servidor:
+Página com o meu portfolio em html e css, mostrando um pouco sobre mim e os projetos dde Full-Stack desenvolvidos:
