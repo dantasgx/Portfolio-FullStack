@@ -1,4 +1,4 @@
-const path = require('path'); // <-- Importante para o Windows não quebrar caminhos
+const path = require('path'); 
 require("colors");
 var http = require('http');
 var express = require('express');
